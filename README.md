@@ -5,5 +5,5 @@
 |`youtubei.googleapis.com`|`/youtubei`|
 |`www.youtube.com`|`/youtubei`|
 
-DOCS: coming soon  
-Project(beta): [CipherTube](https://github.com/dev-kiri/CipherTube)
+### DOCS: coming soon  
+### Project(beta): [CipherTube](https://github.com/dev-kiri/CipherTube)
